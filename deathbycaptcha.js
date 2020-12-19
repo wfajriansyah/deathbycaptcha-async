@@ -178,3 +178,4 @@ class DeathByCaptcha {
         }
     }
 }
+module.exports = DeathByCaptcha;
