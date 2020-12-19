@@ -1,0 +1,25 @@
+{
+  "name": "deathbycaptcha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deathbycaptcha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfajriansyah/deathbycaptcha-async.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wfajriansyah/deathbycaptcha-async/issues"
+  },
+  "homepage": "https://github.com/wfajriansyah/deathbycaptcha-async#readme",
+  "dependencies": {
+    "delay": "^4.4.0",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
